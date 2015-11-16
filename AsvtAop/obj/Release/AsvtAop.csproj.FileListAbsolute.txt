@@ -1,0 +1,4 @@
+D:\MyDocuments\Visual Studio 2013\Projects\AopLab01\AsvtAop\bin\Release\AsvtAop.dll
+D:\MyDocuments\Visual Studio 2013\Projects\AopLab01\AsvtAop\bin\Release\AsvtAop.pdb
+D:\MyDocuments\Visual Studio 2013\Projects\AopLab01\AsvtAop\obj\Release\AsvtAop.dll
+D:\MyDocuments\Visual Studio 2013\Projects\AopLab01\AsvtAop\obj\Release\AsvtAop.pdb

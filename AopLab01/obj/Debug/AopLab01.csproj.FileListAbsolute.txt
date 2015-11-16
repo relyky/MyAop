@@ -1,0 +1,8 @@
+D:\MyDocuments\Visual Studio 2013\Projects\AopLab01\AopLab01\bin\Debug\AopLab01.exe.config
+D:\MyDocuments\Visual Studio 2013\Projects\AopLab01\AopLab01\bin\Debug\AopLab01.exe
+D:\MyDocuments\Visual Studio 2013\Projects\AopLab01\AopLab01\bin\Debug\AopLab01.pdb
+D:\MyDocuments\Visual Studio 2013\Projects\AopLab01\AopLab01\obj\Debug\AopLab01.csprojResolveAssemblyReference.cache
+D:\MyDocuments\Visual Studio 2013\Projects\AopLab01\AopLab01\obj\Debug\AopLab01.exe
+D:\MyDocuments\Visual Studio 2013\Projects\AopLab01\AopLab01\obj\Debug\AopLab01.pdb
+D:\MyDocuments\Visual Studio 2013\Projects\AopLab01\AopLab01\bin\Debug\AsvtAop.dll
+D:\MyDocuments\Visual Studio 2013\Projects\AopLab01\AopLab01\bin\Debug\AsvtAop.pdb
